@@ -99,7 +99,23 @@
 									<p> [07/31/2019] I got hired at <a href="https://www.surplec.com/">Surplec HV company</a>, Spruce Grove, Alberta, Canada as a Test Data Tech.</p>
 									</span> <button onclick="myFunction_its()" id="myBtn_its">Read more</button>
 									</div>
-									
+									<script>
+										function myFunction_its() {
+											var dots = document.getElementById("dots_its");
+											var moreText = document.getElementById("more_its");
+											var btnText = document.getElementById("myBtn_its");
+
+											if (dots.style.display === "none") {
+												dots.style.display = "inline";
+												btnText.innerHTML = "Read more";
+												moreText.style.display = "none";
+											} else {
+												dots.style.display = "none";
+												btnText.innerHTML = "Read less";
+												moreText.style.display = "inline";
+											}
+										}
+									</script>
 
 								</div>
 							</section>
@@ -121,18 +137,18 @@
 													<p> <font size="-1">IEEE PES-GM 2021 <br> <i>[Optimization, Queueing modeling, QoS and Robust Sizing, Nonlinear Programming]</font></i>
 													<br><br>
 													<font size="2px"> In recent years, traffic control methods based on deep reinforcement learning (DRL) have gained attention due to their ability to
-														 exploit real-time traffic data, <span id="dots_its">...</span><span id="more_its">which is often poorly used by the traditional hand-crafted methods.
+														 exploit real-time traffic data, <span id="dots_its1">...</span><span id="more_its1">which is often poorly used by the traditional hand-crafted methods.
 														 While most recent DRL-based methods have focused on maximizing the throughput or minimizing the average travel time of the vehicles, the fairness
 														 of the traffic signal controllers has often been neglected. This is particularly important as neglecting fairness can lead to situations where some
 														 vehicles experience extreme waiting times, or where the throughput of a particular traffic flow is highly impacted by the fluctuations of another
 														 conflicting  flow at the intersection. In order to address these issues, we introduce two notions of fairness: delay-based and throughput-based
 														 fairness, which correspond to the two issues mentioned above. Furthermore, we propose two DRL-based traffic signal control methods for implementing
-														 these fairness notions, that can achieve a high throughput as well. </font></span> <button onclick="myFunction_its()" id="myBtn_its">Read more</button> </p>
+														 these fairness notions, that can achieve a high throughput as well. </font></span> <button onclick="myFunction_its1()" id="myBtn_its1">Read more</button> </p>
 													<script>
-													function myFunction_its() {
-														var dots = document.getElementById("dots_its");
-														var moreText = document.getElementById("more_its");
-														var btnText = document.getElementById("myBtn_its");
+													function myFunction_its1() {
+														var dots = document.getElementById("dots_its1");
+														var moreText = document.getElementById("more_its1");
+														var btnText = document.getElementById("myBtn_its1");
 
 														if (dots.style.display === "none") {
 															dots.style.display = "inline";
@@ -154,12 +170,21 @@
 													<a href="https://www.sciencedirect.com/science/article/pii/S0378779621006581?dgcid=author" target="_blank">A Probabilistic Computing Method for Forecasting based on the Characteristics of Inter-Temporal Events</a>
 													<p> <font size="-1">Elsevier 2022 <br> <i>[Machine Learning, Probability Theory, Energy Systems]</font></i>
 														<br></br>
-													<font size="2px"> End-to-end delay is a critical attribute of quality of service (QoS) in application domains such as cloud computing and
-															computer networks. This metric <span id="dots_com1">...</span><span id="more_com1">is particularly important in
-															tandem service systems, where the end-to-end service is provided through a chain of services. Service-rate control is a
-															common mechanism for providing QoS guarantees in service
-															systems. In this paper, we introduce a reinforcement learningbased (RL-based) service-rate controller that provides probabilistic
-															upper-bounds on the end-to-end delay of the system, while preventing the overuse of service resources.</font></span> <button onclick="myFunction_com1()" id="myBtn_com1">Read more</button> </p>
+													<font size="2px"> There is a growing demand to deploy renewable energy sources (RES) and plug-in electric vehicle (PEV) charging station (EVCS) in distribution networks. 
+														This, however, will change power grid landscapes and potentially impose uncertainties in short and long term grid planning. 
+														The solution to quantify randomness of intermittent events is to implement probabilistic power flow (PPF) analysis. <span id="dots_com1">...</span><span id="more_com1">
+														The computation of PPF due to myriad sources of unknown uncertainties is very expensive. 
+														This computation analysis becomes more complex when inter-period temporal-spatial correlation and multivariate uncertainties are considered. 
+														This paper addresses the issue by resorting to a novel hybrid nonparametric algorithm for short-term PPF analysis in radial distribution networks. 
+														The proposed algorithm deals with probabilistic nonlinear loads, unit generators including PV panels, Wind farms, and EVCS charging pattern. 
+														Temporal correlation characterized by memory coefficient is used to model inter-event temporal correlation (IETC) over multiple time steps. 
+														Detailed uncertainty modeling of PEVs driving and their queues at EVCSs are included. 
+														The proposed method is superior over other existing numerical methods as it accounts for the multivariate inter temporal uncertainty events of RES and PEVs charging. 
+														Simulation results in a spatio-temporally correlated IEEE 34 node radial distribution system revealed that using IETC coefficients leads to improved prediction accuracy with average error less than 2.5% and improves the computation burden. 
+														The proposed method is applied to IEEE 123 node to test the performance of our proposed method. 
+														A comparative analysis is done with other well-known analytical/numerical methods. 
+														The PPF Computation time of our proposed method is shown to be faster than other methods when IETC is implemented. 
+														The results show insensitivity of our proposed method to the size of the system.</font></span> <button onclick="myFunction_com1()" id="myBtn_com1">Read more</button> </p>
 													<script>
 													function myFunction_com1() {
 														var dots = document.getElementById("dots_com1");
