@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  15 FEB 2022 09:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  15 FEB 2022 10:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -721,13 +721,13 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/m/it' will be
 (Font)              scaled to size 10.95pt on input line 76.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-LF/sb/it' will be
 (Font)              scaled to size 10.95pt on input line 84.
+[1
+
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\hfill' on input line 127.
 
-[1
-
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\hfill' on input line 136.
@@ -761,9 +761,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.210 	\item M
-              achine Learning \& Deep Learning A-Z - \textbf{Udemy} \hfill M...
-[2]
+l.207 \subsection{Certificates:}
+                                 [2]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 236.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
@@ -781,11 +780,11 @@ Package rerunfilecheck Info: File `Rouhani_CV.out' has not changed.
 Here is how much of TeX's memory you used:
  10550 strings out of 480608
  164679 string characters out of 5903631
- 478319 words of memory out of 5000000
+ 479331 words of memory out of 5000000
  26167 multiletter control sequences out of 15000+600000
  650907 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,8n,74p,800b,501s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 75i,8n,74p,800b,497s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/sourcesanspro/a_5tbsmu.en
 c}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/sourcesanspro/a_sd7igg.en
 c}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/sourcesanspro/a_mhce32.en
@@ -796,10 +795,10 @@ sPro-It.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/adobe/sourcesanspro
 e/sourcesanspro/SourceSansPro-Semibold.pfb></usr/local/texlive/2020/texmf-dist/
 fonts/type1/adobe/sourcesanspro/SourceSansPro-SemiboldIt.pfb></usr/local/texliv
 e/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Rouhani_CV.pdf (3 pages, 163924 bytes).
+Output written on Rouhani_CV.pdf (3 pages, 164063 bytes).
 PDF statistics:
- 146 PDF objects out of 1000 (max. 8388607)
- 134 compressed objects within 2 object streams
+ 148 PDF objects out of 1000 (max. 8388607)
+ 136 compressed objects within 2 object streams
  24 named destinations out of 1000 (max. 500000)
  169 words of extra memory for PDF output out of 10000 (max. 10000000)
 
