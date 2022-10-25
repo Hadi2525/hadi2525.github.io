@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  24 OCT 2022 22:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  24 OCT 2022 23:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -664,7 +664,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 34--34
 
  []
 
-<Images/alberta.jpg, id=37, 31.317pt x 41.4348pt>
+<Images/alberta.jpg, id=33, 31.317pt x 41.4348pt>
 File: Images/alberta.jpg Graphic file (type jpg)
 <use Images/alberta.jpg>
 Package pdftex.def Info: Images/alberta.jpg  used on input line 57.
@@ -673,27 +673,27 @@ File: Images/alberta.jpg Graphic file (type jpg)
 <use Images/alberta.jpg>
 Package pdftex.def Info: Images/alberta.jpg  used on input line 60.
 (pdftex.def)             Requested size: 10.27872pt x 13.59953pt.
-<Images/shirazu.png, id=40, 100.375pt x 100.375pt>
+<Images/shirazu.png, id=36, 100.375pt x 100.375pt>
 File: Images/shirazu.png Graphic file (type png)
 <use Images/shirazu.png>
 Package pdftex.def Info: Images/shirazu.png  used on input line 63.
 (pdftex.def)             Requested size: 13.59904pt x 13.59904pt.
-<Images/altaml.png, id=42, 401.5pt x 401.5pt>
+<Images/altaml.png, id=38, 401.5pt x 401.5pt>
 File: Images/altaml.png Graphic file (type png)
 <use Images/altaml.png>
 Package pdftex.def Info: Images/altaml.png  used on input line 73.
 (pdftex.def)             Requested size: 13.59445pt x 13.59445pt.
-<Images/microsoft.png, id=44, 2055.68pt x 2055.68pt>
+<Images/microsoft.png, id=40, 2055.68pt x 2055.68pt>
 File: Images/microsoft.png Graphic file (type png)
 <use Images/microsoft.png>
 Package pdftex.def Info: Images/microsoft.png  used on input line 85.
 (pdftex.def)             Requested size: 13.58195pt x 13.58195pt.
-<Images/amii.png, id=46, 225.84375pt x 225.84375pt>
+<Images/amii.png, id=42, 225.84375pt x 225.84375pt>
 File: Images/amii.png Graphic file (type png)
 <use Images/amii.png>
 Package pdftex.def Info: Images/amii.png  used on input line 91.
 (pdftex.def)             Requested size: 13.59828pt x 13.59828pt.
-<Images/ai4goodlab.jpeg, id=48, 224.84pt x 224.84pt>
+<Images/ai4goodlab.jpeg, id=44, 224.84pt x 224.84pt>
 File: Images/ai4goodlab.jpeg Graphic file (type jpg)
 <use Images/ai4goodlab.jpeg>
 Package pdftex.def Info: Images/ai4goodlab.jpeg  used on input line 101.
@@ -719,124 +719,21 @@ Overfull \hbox (3.79175pt too wide) in paragraph at lines 118--124
 [][] 
  []
 
-<Images/tf.png, id=67, 2007.5pt x 2147.02126pt>
-File: Images/tf.png Graphic file (type png)
-<use Images/tf.png>
-Package pdftex.def Info: Images/tf.png  used on input line 175.
-(pdftex.def)             Requested size: 12.71225pt x 13.59575pt.
-File: Images/tf.png Graphic file (type png)
-<use Images/tf.png>
-Package pdftex.def Info: Images/tf.png  used on input line 177.
-(pdftex.def)             Requested size: 12.71225pt x 13.59575pt.
-<Images/torch.png, id=70, 1204.5pt x 1458.44875pt>
-File: Images/torch.png Graphic file (type png)
-<use Images/torch.png>
-Package pdftex.def Info: Images/torch.png  used on input line 179.
-(pdftex.def)             Requested size: 11.22966pt x 13.59726pt.
-<Images/docker.png, id=72, 603.25375pt x 432.61626pt>
-File: Images/docker.png Graphic file (type png)
-<use Images/docker.png>
-Package pdftex.def Info: Images/docker.png  used on input line 182.
-(pdftex.def)             Requested size: 13.59563pt x 9.74994pt.
-File: Images/docker.png Graphic file (type png)
-<use Images/docker.png>
-Package pdftex.def Info: Images/docker.png  used on input line 185.
-(pdftex.def)             Requested size: 13.59563pt x 9.74994pt.
-<Images/python.png, id=75, 1003.75pt x 1003.75pt>
-File: Images/python.png Graphic file (type png)
-<use Images/python.png>
-Package pdftex.def Info: Images/python.png  used on input line 188.
-(pdftex.def)             Requested size: 13.58527pt x 13.58527pt.
-File: Images/python.png Graphic file (type png)
-<use Images/python.png>
-Package pdftex.def Info: Images/python.png  used on input line 190.
-(pdftex.def)             Requested size: 13.58527pt x 13.58527pt.
-<Images/pandas.png, id=78, 194.7275pt x 259.97125pt>
-File: Images/pandas.png Graphic file (type png)
-<use Images/pandas.png>
-Package pdftex.def Info: Images/pandas.png  used on input line 192.
-(pdftex.def)             Requested size: 10.18561pt x 13.59831pt.
-File: Images/pandas.png Graphic file (type png)
-<use Images/pandas.png>
-Package pdftex.def Info: Images/pandas.png  used on input line 194.
-(pdftex.def)             Requested size: 10.18561pt x 13.59831pt.
-<Images/ubuntu.jpg, id=81, 286.06876pt x 286.06876pt>
-File: Images/ubuntu.jpg Graphic file (type jpg)
-<use Images/ubuntu.jpg>
-Package pdftex.def Info: Images/ubuntu.jpg  used on input line 196.
-(pdftex.def)             Requested size: 13.59712pt x 13.59712pt.
-File: Images/ubuntu.jpg Graphic file (type jpg)
-<use Images/ubuntu.jpg>
-Package pdftex.def Info: Images/ubuntu.jpg  used on input line 198.
-(pdftex.def)             Requested size: 13.59712pt x 13.59712pt.
-<Images/mysql.png, id=84, 521.95pt x 513.92pt>
-File: Images/mysql.png Graphic file (type png)
-<use Images/mysql.png>
-Package pdftex.def Info: Images/mysql.png  used on input line 200.
-(pdftex.def)             Requested size: 13.59506pt x 13.38591pt.
-<Images/ml.png, id=86, 216.05719pt x 194.97844pt>
-File: Images/ml.png Graphic file (type png)
-<use Images/ml.png>
-Package pdftex.def Info: Images/ml.png  used on input line 203.
-(pdftex.def)             Requested size: 13.59914pt x 12.2724pt.
-<Images/dj.png, id=88, 903.375pt x 1190.4475pt>
-File: Images/dj.png Graphic file (type png)
-<use Images/dj.png>
-Package pdftex.def Info: Images/dj.png  used on input line 205.
-(pdftex.def)             Requested size: 10.3107pt x 13.58722pt.
-File: Images/python.png Graphic file (type png)
-<use Images/python.png>
-Package pdftex.def Info: Images/python.png  used on input line 208.
-(pdftex.def)             Requested size: 13.58527pt x 13.58527pt.
-<Images/cuda.png, id=91, 803.0pt x 803.0pt>
-File: Images/cuda.png Graphic file (type png)
-<use Images/cuda.png>
-Package pdftex.def Info: Images/cuda.png  used on input line 210.
-(pdftex.def)             Requested size: 13.99266pt x 13.99266pt.
-<Images/dscience.jpg, id=93, 175.857pt x 179.9523pt>
-File: Images/dscience.jpg Graphic file (type jpg)
-<use Images/dscience.jpg>
-Package pdftex.def Info: Images/dscience.jpg  used on input line 212.
-(pdftex.def)             Requested size: 13.28798pt x 13.59743pt.
-<Images/html5.PNG, id=95, 513.92pt x 513.92pt>
-File: Images/html5.PNG Graphic file (type png)
-<use Images/html5.PNG>
-Package pdftex.def Info: Images/html5.PNG  used on input line 214.
-(pdftex.def)             Requested size: 13.59764pt x 13.59764pt.
-<Images/css3.png, id=97, 1027.84pt x 1027.84pt>
-File: Images/css3.png Graphic file (type png)
-<use Images/css3.png>
-Package pdftex.def Info: Images/css3.png  used on input line 216.
-(pdftex.def)             Requested size: 13.59764pt x 13.59764pt.
-<Images/js.png, id=99, 451.6875pt x 451.6875pt>
-File: Images/js.png Graphic file (type png)
-<use Images/js.png>
-Package pdftex.def Info: Images/js.png  used on input line 218.
-(pdftex.def)             Requested size: 13.59828pt x 13.59828pt.
-<Images/git.png, id=101, 384.43625pt x 384.43625pt>
-File: Images/git.png Graphic file (type png)
-<use Images/git.png>
-Package pdftex.def Info: Images/git.png  used on input line 220.
-(pdftex.def)             Requested size: 13.9963pt x 13.9963pt.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 319.
-[2 <./Images/tf.png> <./Images/torch.png> <./Images/docker.png> <./Images/pytho
-n.png> <./Images/pandas.png> <./Images/ubuntu.jpg> <./Images/mysql.png> <./Imag
-es/ml.png> <./Images/dj.png> <./Images/cuda.png> <./Images/dscience.jpg> <./Ima
-ges/html5.PNG> <./Images/css3.png> <./Images/js.png> <./Images/git.png>]
+[2]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 319.
-
-(./CV.aux)
+ (./CV.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 319.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 319.
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: 501ADFEC725AE9F8604203C3EAB62611;629.
+(rerunfilecheck)             Checksum: 58C2EB15DE5CF4B705FB87949A350B02;526.
  ) 
 Here is how much of TeX's memory you used:
- 14422 strings out of 480608
- 222684 string characters out of 5903631
- 622139 words of memory out of 5000000
- 30010 multiletter control sequences out of 15000+600000
- 584327 words of font info for 72 fonts, out of 8000000 for 9000
+ 14322 strings out of 480608
+ 221000 string characters out of 5903631
+ 601833 words of memory out of 5000000
+ 29934 multiletter control sequences out of 15000+600000
+ 583923 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,12n,49p,768b,436s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
@@ -847,10 +744,10 @@ texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/20
 20/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf
 -dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2020/texmf-dist/fon
 ts/type1/public/tex-gyre/qplr.pfb>
-Output written on CV.pdf (2 pages, 1220753 bytes).
+Output written on CV.pdf (2 pages, 229673 bytes).
 PDF statistics:
- 159 PDF objects out of 1000 (max. 8388607)
- 107 compressed objects within 2 object streams
- 9 named destinations out of 1000 (max. 500000)
- 16026 words of extra memory for PDF output out of 17280 (max. 10000000)
+ 93 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
+ 8 named destinations out of 1000 (max. 500000)
+ 15943 words of extra memory for PDF output out of 17280 (max. 10000000)
 
