@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  4 NOV 2022 13:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  22 DEC 2022 23:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -9,8 +9,8 @@ L3 programming layer <2020-03-06>
 (/usr/local/texlive/2020/texmf-dist/tex/latex/moderncv/moderncv.cls
 Document Class: moderncv 2015/07/28 v2.0.0 modern curriculum vitae and letter d
 ocument class
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 (/usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
@@ -761,30 +761,30 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip82
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 13.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 13.
+Package hyperref Info: Option `breaklinks' set `true' on input line 15.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 15.
  (./CV.aux)
 \openout1 = `CV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 13
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 15
 .
  (/usr/local/texlive/2020/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -811,14 +811,14 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 13.
+LaTeX Info: Redefining \microtypecontext on input line 15.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 13.
+LaTeX Info: Redefining \showhyphens on input line 15.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -828,7 +828,7 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 (RS)
 )
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1
-3.
+5.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -858,12 +858,12 @@ ABD: EveryShipout initializing macros
 * \topmargin=-41.6673pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=11.0pt
+* \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=50.0pt
-* \marginparsep=10.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -874,7 +874,7 @@ ABD: EveryShipout initializing macros
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box107
-Package hyperref Info: Link coloring OFF on input line 13.
+Package hyperref Info: Link coloring OFF on input line 15.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -887,44 +887,44 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count301
 )
-LaTeX Info: Redefining \ref on input line 13.
-LaTeX Info: Redefining \pageref on input line 13.
-LaTeX Info: Redefining \nameref on input line 13.
+LaTeX Info: Redefining \ref on input line 15.
+LaTeX Info: Redefining \pageref on input line 15.
+LaTeX Info: Redefining \nameref on input line 15.
  (./CV.out) (./CV.out)
 \@outlinefile=\write4
 \openout4 = `CV.out'.
 
 \makecvheaddetailsbox=\box108
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-5.
+7.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-5.
+7.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-15.
+17.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-15.
+17.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 15.
+(Font)              <9> on input line 17.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 15.
+(Font)              <6> on input line 17.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 15.
+(Font)              <5> on input line 17.
 
 (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-mvs.cfg
 File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
@@ -934,103 +934,97 @@ File: mt-mvs.cfg 2006/07/05 v1.1 microtype config. file: Marvosym Euro (RS)
 \makecvheadpicturewidth=\skip84
 \makecvheadnamebox=\box110
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--15
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
 
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 18.
+(Font)              <10> on input line 20.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 18.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 18.
-<Images/alberta.jpg, id=33, 31.317pt x 41.4348pt>
+(Font)              <7> on input line 20.
+<Images/alberta.jpg, id=29, 31.317pt x 41.4348pt>
 File: Images/alberta.jpg Graphic file (type jpg)
 <use Images/alberta.jpg>
-Package pdftex.def Info: Images/alberta.jpg  used on input line 30.
-(pdftex.def)             Requested size: 10.27872pt x 13.59953pt.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 30.
+Package pdftex.def Info: Images/alberta.jpg  used on input line 35.
+(pdftex.def)             Requested size: 9.06973pt x 11.99997pt.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 35.
 File: Images/alberta.jpg Graphic file (type jpg)
 <use Images/alberta.jpg>
-Package pdftex.def Info: Images/alberta.jpg  used on input line 33.
-(pdftex.def)             Requested size: 10.27872pt x 13.59953pt.
-<Images/shirazu.png, id=36, 100.375pt x 100.375pt>
+Package pdftex.def Info: Images/alberta.jpg  used on input line 38.
+(pdftex.def)             Requested size: 9.06973pt x 11.99997pt.
+<Images/shirazu.png, id=32, 100.375pt x 100.375pt>
 File: Images/shirazu.png Graphic file (type png)
 <use Images/shirazu.png>
-Package pdftex.def Info: Images/shirazu.png  used on input line 36.
-(pdftex.def)             Requested size: 13.59904pt x 13.59904pt.
-<Images/altaml.png, id=38, 401.5pt x 401.5pt>
+Package pdftex.def Info: Images/shirazu.png  used on input line 41.
+(pdftex.def)             Requested size: 12.00006pt x 12.00006pt.
+<Images/altaml.png, id=34, 401.5pt x 401.5pt>
 File: Images/altaml.png Graphic file (type png)
 <use Images/altaml.png>
-Package pdftex.def Info: Images/altaml.png  used on input line 46.
-(pdftex.def)             Requested size: 13.59445pt x 13.59445pt.
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 5
-4.
-(/usr/local/texlive/2020/texmf-dist/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-<Images/amii.png, id=41, 225.84375pt x 225.84375pt>
+Package pdftex.def Info: Images/altaml.png  used on input line 51.
+(pdftex.def)             Requested size: 11.99547pt x 11.99547pt.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 51.
+<Images/amii.png, id=37, 225.84375pt x 225.84375pt>
 File: Images/amii.png Graphic file (type png)
 <use Images/amii.png>
-Package pdftex.def Info: Images/amii.png  used on input line 64.
-(pdftex.def)             Requested size: 13.59828pt x 13.59828pt.
-<Images/ai4goodlab.jpeg, id=43, 224.84pt x 224.84pt>
-File: Images/ai4goodlab.jpeg Graphic file (type jpg)
-<use Images/ai4goodlab.jpeg>
-Package pdftex.def Info: Images/ai4goodlab.jpeg  used on input line 74.
-(pdftex.def)             Requested size: 13.5996pt x 13.5996pt.
-<Images/datasci.png, id=45, 385.44pt x 385.44pt>
-File: Images/datasci.png Graphic file (type png)
-<use Images/datasci.png>
-Package pdftex.def Info: Images/datasci.png  used on input line 84.
-(pdftex.def)             Requested size: 13.59764pt x 13.59764pt.
- [1
+Package pdftex.def Info: Images/amii.png  used on input line 70.
+(pdftex.def)             Requested size: 11.99928pt x 11.99928pt.
+[1
 
 
 
 {/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Image
 s/alberta.jpg> <./Images/shirazu.png> <./Images/altaml.png> <./Images/amii.png>
- <./Images/ai4goodlab.jpeg> <./Images/datasci.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 139--139
-[]|\T1/lmss/bx/n/10.95 Power Sys-tem
- []
-
-
-Overfull \hbox (3.79175pt too wide) in paragraph at lines 137--143
-[][] 
- []
-
-[2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 161.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 161.
+]
+<Images/datasci.png, id=57, 385.44pt x 385.44pt>
+File: Images/datasci.png Graphic file (type png)
+<use Images/datasci.png>
+Package pdftex.def Info: Images/datasci.png  used on input line 96.
+(pdftex.def)             Requested size: 11.99791pt x 11.99791pt.
+File: Images/alberta.jpg Graphic file (type jpg)
+<use Images/alberta.jpg>
+Package pdftex.def Info: Images/alberta.jpg  used on input line 148.
+(pdftex.def)             Requested size: 9.06973pt x 11.99997pt.
+<Images/stuttgartlogo.png, id=64, 2055.68pt x 2055.68pt>
+File: Images/stuttgartlogo.png Graphic file (type png)
+<use Images/stuttgartlogo.png>
+Package pdftex.def Info: Images/stuttgartlogo.png  used on input line 166.
+(pdftex.def)             Requested size: 11.98222pt x 11.98222pt.
+File: Images/alberta.jpg Graphic file (type jpg)
+<use Images/alberta.jpg>
+Package pdftex.def Info: Images/alberta.jpg  used on input line 183.
+(pdftex.def)             Requested size: 9.06973pt x 11.99997pt.
+ [2 <./Images/datasci.png> <./Images/stuttgartlogo.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 227.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 227.
  (./CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 161.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 161.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 227.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 227.
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: 58C2EB15DE5CF4B705FB87949A350B02;526.
+(rerunfilecheck)             Checksum: A2EAA157E43C4183FE425C0C837D9615;375.
  ) 
 Here is how much of TeX's memory you used:
- 24089 strings out of 480608
- 435120 string characters out of 5903631
- 829985 words of memory out of 5000000
- 39474 multiletter control sequences out of 15000+600000
- 593543 words of font info for 84 fonts, out of 8000000 for 9000
+ 24055 strings out of 480608
+ 434141 string characters out of 5903631
+ 830776 words of memory out of 5000000
+ 39440 multiletter control sequences out of 15000+600000
+ 592427 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  76i,11n,68p,768b,828s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local
-/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2020/
-texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2020/texmf-dist/
-fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type
-1/public/lm/lmss12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/l
-m/lmss17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmssbo10
-.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></u
-sr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/
-texlive/2020/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on CV.pdf (2 pages, 254026 bytes).
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/
+texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/20
+20/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2020/texmf-d
+ist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2020/texmf-dist/fonts/
+type1/public/lm/lmssbo10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/pu
+blic/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/
+lmsso10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsso12.p
+fb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsso9.pfb></usr/l
+ocal/texlive/2020/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
+Output written on CV.pdf (2 pages, 543587 bytes).
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
- 84 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
- 22099 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 108 PDF objects out of 1000 (max. 8388607)
+ 83 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
+ 23115 words of extra memory for PDF output out of 24883 (max. 10000000)
 
